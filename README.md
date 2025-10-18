@@ -50,16 +50,16 @@ The system operates based on a set of control and counting modules.
 The system consists of four main modules:
 
 - **`Count` Module:** Handles counting and manual adjustment of time/date values.  
-  ![Count Module](images/count.png)
+  <img src="images/count.png" alt="Count Module" width="350"/>
 
 - **`Count - more details` Module:** Handles counting and manual adjustment of time/date values.  
-  ![Count Module](images/Count.png)
+  <img src="images/Count.png" alt="Count Module" width="350"/>
 
 - **`Controller` Module:** Manages display mode, blinking signal, and field selection.  
-  ![Controller Module](images/controller.png)
+  <img src="images/controller.png" alt="Controller Module" width="350"/>
 
 - **`Display` Module:** Controls the 7-segment LEDs and formats data for visualization.  
-  ![Display Module](images/display.png)
+  <img src="images/display.png" alt="Display Module" width="350"/>
 
 - **`gen_clk1Hz` Module:** Generates a 1Hz clock signal from the 50MHz system clock.
 
